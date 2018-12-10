@@ -7,14 +7,14 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="94ea7bcf-f56e-496a-a7df-f3ec17b2bab2"
+    Name="ff41110f-f2e9-4554-8446-13310318eb96"
     Publisher="CN=Nate"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="94ea7bcf-f56e-496a-a7df-f3ec17b2bab2" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="ff41110f-f2e9-4554-8446-13310318eb96" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>Save The Humans</DisplayName>
+    <DisplayName>Save the Humans</DisplayName>
     <PublisherDisplayName>Nate</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -30,12 +30,12 @@
   <Applications>
     <Application Id="App"
       Executable="$targetnametoken$.exe"
-      EntryPoint="Save_The_Humans.App">
+      EntryPoint="Save_the_Humans.App">
       <uap:VisualElements
-        DisplayName="Save The Humans"
+        DisplayName="Save the Humans"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
-        Description="Save The Humans"
+        Description="Save the Humans"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
